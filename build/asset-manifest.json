@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45d99c14.css",
+    "main.js": "/static/js/main.0fa50072.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/Desain tanpa judul.mp4": "/static/media/Desain tanpa judul.c3612165fef7f0b2394a.mp4",
+    "static/media/Putih_Simple_CV_Lamaran_Desain_Grafis-removebg(1).png": "/static/media/Putih_Simple_CV_Lamaran_Desain_Grafis-removebg(1).dde21a4105801df2adb5.png",
+    "static/media/H3.png": "/static/media/H3.8914aed2f3a94174d15f.png",
+    "static/media/about.png": "/static/media/about.8cbaea65816d05aa445f.png",
+    "static/media/r.png": "/static/media/r.689bc894c062b345cc84.png",
+    "static/media/hbg.png": "/static/media/hbg.3b29e1441e18e7a0f140.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.45d99c14.css.map": "/static/css/main.45d99c14.css.map",
+    "main.0fa50072.js.map": "/static/js/main.0fa50072.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d99c14.css",
+    "static/js/main.0fa50072.js"
+  ]
+}
